@@ -1,4 +1,4 @@
-# Municípios Brasileiros
+# Municípios Brasileiros:
 
 Arquivos `SQL`, `CSV` e `JSON` contendo o código IBGE, nome do município, código UF, UF, estado, latitude e longitude de todos (ou quase todos) os municípios brasileiros. Total de 5.570 registros.
 
